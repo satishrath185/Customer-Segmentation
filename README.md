@@ -116,7 +116,7 @@ Recency vs Amount
 
 Recency vs Frequency
 
-![](Images/Recency%20vs%20Frequency.PNG)
+![](Images/Recency%20vs%20Freq.PNG)
 
 
 ## __Conclusion__
