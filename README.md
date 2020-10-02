@@ -73,7 +73,7 @@ __Sales Recency__
 
 ## Processed Data
 
-__Data with Recency, Frequency and Moentary feature__
+__Data with Recency, Frequency and Monetary feature__
 
 ![](Images/RFM%20Data.PNG)
 
